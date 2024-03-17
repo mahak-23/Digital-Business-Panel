@@ -1,6 +1,12 @@
-# Digital Business Panel
+# Digital Business Dashboard
 
-This is a digital business panel application built with React.
+Welcome to the Digital Business Dashboard project!
+
+This project includes a dashboard application built with React, showcasing various components such as statistics, orders, calendar, and data grid.
+
+## Live Demo
+
+Check out the live demo [here](https://digital-business-dashboard.netlify.app/dashboard).
 
 ## Features
 
@@ -27,6 +33,8 @@ This is a digital business panel application built with React.
 - Displays user data in a tabular format.
 - Allows users to view and interact with data efficiently.
 - Supports pagination and lazy loading for handling large datasets.
+
+![image](https://github.com/mahak-23/digital-business-panel/assets/107416996/bd9b1a79-fc5a-433e-8070-6a1eb76b619b)
 
 ## Dependencies
 
