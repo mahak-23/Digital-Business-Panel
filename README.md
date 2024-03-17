@@ -6,7 +6,7 @@ This project includes a dashboard application built with React, showcasing vario
 
 ## Live Demo
 
-Check out the live demo [here](https://digital-business-dashboard.netlify.app/dashboard).
+Check out the live demo [here](https://digital-business-dashboard.netlify.app/).
 
 ## Features
 
